@@ -1,4 +1,8 @@
-# [Jessica Carvalho] <img ![mulher-maravilha-gif](https://user-images.githubusercontent.com/132696341/236526720-92a1bcf7-35db-44db-bdca-a8412c17aa6c.gif)
+# [Jessica Carvalho] <img !
+
+[mulher-maravilha-gif]
+
+(https://user-images.githubusercontent.com/132696341/236526720-92a1bcf7-35db-44db-bdca-a8412c17aa6c.gif)
 src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 Eu sou <strong> Jessica Carvalho</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
