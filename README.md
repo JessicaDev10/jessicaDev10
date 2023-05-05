@@ -30,3 +30,5 @@ Eu sou <strong> Jessica Carvalho</strong>, <strong></strong> 👨🏻‍💻
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 
 </div>
+
+![image](https://user-images.githubusercontent.com/132696341/236531997-2e3803b6-ebb4-49b6-9be3-9b0280d57103.png)
